@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/chalmejd/background-generator/issues"
   },
-  "homepage": "https://github.com/chalmejd/background-generator#readme"
+  "homepage": "https://github.com/chalmejd/background-generator#readme",
+  "dependencies": {}
 }
